@@ -2,6 +2,15 @@
 
 ## Data Manipulation with SparkSQL, PandaSQL, SQLAlchemy, PostgreSQL and Docker
 
+Apache Spark is a scalable and efficient big data analysis tool. As an open-source framework for Big Data processing built for speed,
+easy to use and for sophisticated analysis.
+
+It is a highly scalable, distributed data analysis system that
+allows in-memory processing.
+
+ Currently, it supports as languages ​​for the development of
+applications, the languages: Scala, Java, Python and R.
+
 <div align="center">
 <p float="left">
     <img src="/images/bd.png" width="1000" height="500"/>
