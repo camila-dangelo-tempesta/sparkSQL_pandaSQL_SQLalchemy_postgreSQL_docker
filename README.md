@@ -8,8 +8,7 @@ easy to use and for sophisticated analysis.
 It is a highly scalable, distributed data analysis system that
 allows in-memory processing.
 
- Currently, it supports as languages ​​for the development of
-applications, the languages: Scala, Java, Python and R.
+ Currently, it supports as languages for the development of applications, the languages: Scala, Java, Python and R.
 
 <div align="center">
 <p float="left">
@@ -27,6 +26,8 @@ We will carry out a complete experiment of loading and manipulating data in an e
 ## 2. BUSINESS ASSUMPTIONS
 
 The datasets available at the link [Football](https://datahub.io/collections/football), have information about national teams, clubs, game schedules, players, stadiums, etc.
+
+**Library**: [SQL and DataFrame](https://spark.apache.org/sql/)
 
 ***
 
